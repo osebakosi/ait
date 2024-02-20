@@ -17,7 +17,8 @@
    | Признак | Описание | Единицы измерения |  
    | --- | --- | --- |  
    | Location | The common name of the location of the weather station |  
-   | MinTemp | Minimum temperature in the 24 hours to 9am. Sometimes only known to the nearest whole degree. |
+   | MinTemp | Minimum temperature in the 24 hours to 9am. Sometimes only known to the nearest whole degree. | degrees Celsius  
+   | Sunshine | Bright sunshine in the 24 hours to midnight | hours
 
 3. Выполнить над датафреймом следующие операции:  
    - `.head()`.
