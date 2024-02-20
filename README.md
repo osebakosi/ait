@@ -27,3 +27,28 @@
 
 6. Если в работе используется какой-то датасет, то необходимо указать ссылку на него и на описание датасета. 
 Желательно привести краткое описание датасета.
+
+### Датасеты
+
+- [Встроенные датасеты в sklearn](https://scikit-learn.org/stable/datasets)
+- [Google-поиск по датасетам](https://datasetsearch.research.google.com/)
+
+Репозитории с датасетами:
+- [Kaggle](https://www.kaggle.com/datasets)  
+  [Как начать работу в Kaggle: руководство для новичков в Data Science](https://habr.com/ru/post/248395/)
+- [Материалы с курса OpenDataScience](https://nbviewer.org/github/Yorko/mlcourse.ai/tree/main/data/) или [тут](https://github.com/Yorko/mlcourse.ai/tree/master/data/)
+- [Датасеты университета Калифорнии](https://archive.ics.uci.edu/ml/datasets)
+- [Учебные датасеты для R](https://vincentarelbundock.github.io/Rdatasets/datasets.html)
+- [Датасеты от FiveThirtyEight](https://data.fivethirtyeight.com/)
+- [Подборка на habr](https://habr.com/ru/post/452740)
+- [Подборка на Reddit](https://www.reddit.com/r/datasets/)
+- [Ещё подборка 1](https://towardsai.net/p/machine-learning/best-free-datasets-for-machine-learning-and-data-science/stanfordai/3451/)
+- [Ещё подборка 2](https://towardsdatascience.com/top-sources-for-machine-learning-datasets-bb6d0dc3378b)
+
+Разные открытые данные:
+- [Списки источников открытых данных от Яндекса](https://yandex.ru/promo/oda/useful)
+- [Портал открытых данных Российской Федерации](https://data.gov.ru/)
+- [Портал открытых данных правительства Москвы](https://data.mos.ru/opendata)
+- [Открытые данные Сбербанка](https://www.sberbank.com/ru/analytics/opendata)
+- [Открытые данные Министерства финансов РФ](https://www.minfin.ru/opendata/)
+- [Открытые данные Министерства культуры РФ](https://opendata.mkrf.ru/opendata/)
