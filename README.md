@@ -6,6 +6,7 @@
 
 1. [Библиотека Pandas](lectures/lecture_1/lecture_1.ipynb)
 2. [Визуализация данных](lectures/lecture_2/lecture_2.ipynb)
+3. [Задачи классификации. Метрики качества](lectures/lecture_3/lecture_3.ipynb)
 
 ## Лабораторные работы
 
