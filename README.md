@@ -9,6 +9,7 @@
 3. [Задачи классификации. Метрики качества](lectures/lecture_3/lecture_3.ipynb)
 4. [Деревья решений](lectures/lecture_4/lecture_4.ipynb)
 5. [Линейная регрессия](lectures/lecture_5/lecture_5.ipynb)
+6. [Градиентный бустинг](lectures/lecture_6/lecture_6.ipynb)
 
 ## Лабораторные работы
 
