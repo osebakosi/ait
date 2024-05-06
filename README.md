@@ -11,7 +11,15 @@
 5. [Линейная регрессия](lectures/lecture_5/lecture_5.ipynb)
 6. [Градиентный бустинг](lectures/lecture_6/lecture_6.ipynb)
 
-> С визуализацией некоторых JS графиков может помочь [nbviewer](https://nbviewer.org/). Например, графики с использованием `Plotly` во 2 лекциии и некоторые JS графики из 6 лекции отображаются в `nbviewer`, но графики, сгенерированные `CatBoost` &ndash; нет (хотя под капотом там тоже `Plotly`).
+> С визуализацией некоторых JS графиков может помочь [nbviewer](https://nbviewer.org/). Например, графики с использованием `Plotly` во 2 лекциии и некоторые JS графики из 6 лекции отображаются в `nbviewer`, но графики, сгенерированные `CatBoost` &ndash; нет (хотя под капотом там тоже `Plotly`).  
+> Для того чтобы графики с JS кодом и некоторые HTML блоки рендерились нормально, необходимо подписать ноутбук согласно [Trusting Notebooks](https://jupyter-notebook.readthedocs.io/en/latest/notebook.html#trusting-notebooks). В веб-интерфейсе
+> ```bash
+> jupyter trust lecture_6.ipynb
+> ```
+> Должно появиться сообщение:
+> ```bash
+> Signing notebook: .\lecture_6.ipynb
+>```
 
 ## Лабораторные работы
 
