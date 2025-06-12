@@ -11,7 +11,7 @@
 5. [Линейная регрессия](lectures/lecture_5/lecture_5.ipynb)
 6. [Градиентный бустинг](lectures/lecture_6/lecture_6.ipynb)
 
-> С визуализацией некоторых JS графиков может помочь [nbviewer](https://nbviewer.org/). Например, графики с использованием `Plotly` во 2 лекциии и некоторые JS графики из 6 лекции отображаются в `nbviewer`, но графики, сгенерированные `CatBoost` &ndash; нет (хотя под капотом там тоже `Plotly`).  
+> С визуализацией некоторых JS графиков может помочь [nbviewer](https://nbviewer.org/). Например, графики с использованием `Plotly` во 2 лекции и некоторые JS графики из 6 лекции отображаются в `nbviewer`, но графики, сгенерированные `CatBoost` &ndash; нет (хотя под капотом там тоже `Plotly`).  
 > Для того чтобы графики с JS кодом и некоторые HTML блоки рендерились нормально, необходимо подписать ноутбук согласно [Trusting Notebooks](https://jupyter-notebook.readthedocs.io/en/latest/notebook.html#trusting-notebooks):
 > ```bash
 > jupyter trust lecture_6.ipynb
@@ -20,6 +20,11 @@
 > ```bash
 > Signing notebook: .\lecture_6.ipynb
 >```
+> 
+> В [документации CatBoost'а](https://catboost.ai/docs/en/features/visualization_jupyter-notebook) насчет виджетов указано следующее:
+> > CatBoost widgets do work in JupyterLab but only for versions 3.x, versions 4.x support is in progress.
+> 
+> [Требуется](https://catboost.ai/docs/en/installation/python-installation-additional-data-visualization-packages) `ipywidgets` версии 7.x или новее.
 
 ## Лабораторные работы
 
